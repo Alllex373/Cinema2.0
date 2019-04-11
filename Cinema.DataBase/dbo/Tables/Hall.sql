@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Hall] (
+    [Id]   INT            IDENTITY (1, 1) NOT NULL,
+    [Name] NVARCHAR (MAX) NULL,
+    CONSTRAINT [PK_Hall] PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
