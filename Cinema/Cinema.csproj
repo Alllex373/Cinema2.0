@@ -147,6 +147,14 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Areas\Admin\AdminAreaRegistration.cs" />
+    <Compile Include="Areas\Admin\Controllers\AdminController.cs" />
+    <Compile Include="Areas\Admin\Controllers\AdminCountryController.cs" />
+    <Compile Include="Areas\Admin\Controllers\AdminFilmController.cs" />
+    <Compile Include="Areas\Admin\Controllers\AdminGenreController.cs" />
+    <Compile Include="Areas\Admin\Controllers\AdminHallController.cs" />
+    <Compile Include="Areas\Admin\Controllers\AdminSessionController.cs" />
+    <Compile Include="Areas\Admin\Controllers\AdminUserController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -167,6 +175,16 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Areas\Admin\Views\web.config" />
+    <Content Include="Areas\Admin\Views\_ViewStart.cshtml" />
+    <Content Include="Areas\Admin\Views\Shared\_Layout.cshtml" />
+    <Content Include="Areas\Admin\Views\AdminUser\AdminUser.cshtml" />
+    <Content Include="Areas\Admin\Views\AdminHall\AdminHall.cshtml" />
+    <Content Include="Areas\Admin\Views\Admin\Admin.cshtml" />
+    <Content Include="Areas\Admin\Views\AdminCountry\AdminCountry.cshtml" />
+    <Content Include="Areas\Admin\Views\AdminGenre\AdminGenre.cshtml" />
+    <Content Include="Areas\Admin\Views\AdminFilm\AdminFilm.cshtml" />
+    <Content Include="Areas\Admin\Views\AdminSession\AdminSession.cshtml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -195,6 +213,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Areas\Admin\Models\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,5 @@
+D:\lllikusia\l1\Cinema2.0\Cinema.Model\bin\Debug\Cinema.Model.dll
+D:\lllikusia\l1\Cinema2.0\Cinema.Model\bin\Debug\Cinema.Model.pdb
+D:\lllikusia\l1\Cinema2.0\Cinema.Model\obj\Debug\Cinema.Model.csproj.CoreCompileInputs.cache
+D:\lllikusia\l1\Cinema2.0\Cinema.Model\obj\Debug\Cinema.Model.dll
+D:\lllikusia\l1\Cinema2.0\Cinema.Model\obj\Debug\Cinema.Model.pdb
