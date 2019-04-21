@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\A_level\!FinalProjectTry2\Cinema.DataBase\bin\Debug\Cinema.DataBase.dacpac
 D:\A_level\!FinalProjectTry2\Cinema.DataBase\obj\Debug\Cinema.DataBase.sqlprojAssemblyReference.cache
 D:\A_level\!FinalProjectTry2\Cinema.DataBase\obj\Debug\Model.xml
@@ -6,3 +7,21 @@ D:\A_level\!FinalProjectTry2\Cinema.DataBase\obj\Debug\postdeploy.sql
 D:\A_level\!FinalProjectTry2\Cinema.DataBase\obj\Debug\predeploy.sql
 D:\A_level\!FinalProjectTry2\Cinema.DataBase\obj\Debug\Cinema.DataBase.dll
 D:\A_level\!FinalProjectTry2\Cinema.DataBase\obj\Debug\Cinema.DataBase.pdb
+=======
+D:\lllikusia\Cinema2.0-master\Cinema.DataBase\bin\Debug\Cinema.DataBase.dacpac
+D:\lllikusia\Cinema2.0-master\Cinema.DataBase\obj\Debug\Cinema.DataBase.sqlprojResolveAssemblyReference.cache
+D:\lllikusia\Cinema2.0-master\Cinema.DataBase\obj\Debug\Model.xml
+D:\lllikusia\Cinema2.0-master\Cinema.DataBase\obj\Debug\refactor.xml
+D:\lllikusia\Cinema2.0-master\Cinema.DataBase\obj\Debug\postdeploy.sql
+D:\lllikusia\Cinema2.0-master\Cinema.DataBase\obj\Debug\predeploy.sql
+D:\lllikusia\Cinema2.0-master\Cinema.DataBase\obj\Debug\Cinema.DataBase.dll
+D:\lllikusia\Cinema2.0-master\Cinema.DataBase\obj\Debug\Cinema.DataBase.pdb
+D:\lllikusia\l1\Cinema2.0\Cinema.DataBase\bin\Debug\Cinema.DataBase.dacpac
+D:\lllikusia\l1\Cinema2.0\Cinema.DataBase\obj\Debug\Cinema.DataBase.sqlprojResolveAssemblyReference.cache
+D:\lllikusia\l1\Cinema2.0\Cinema.DataBase\obj\Debug\Model.xml
+D:\lllikusia\l1\Cinema2.0\Cinema.DataBase\obj\Debug\refactor.xml
+D:\lllikusia\l1\Cinema2.0\Cinema.DataBase\obj\Debug\postdeploy.sql
+D:\lllikusia\l1\Cinema2.0\Cinema.DataBase\obj\Debug\predeploy.sql
+D:\lllikusia\l1\Cinema2.0\Cinema.DataBase\obj\Debug\Cinema.DataBase.dll
+D:\lllikusia\l1\Cinema2.0\Cinema.DataBase\obj\Debug\Cinema.DataBase.pdb
+>>>>>>> 54292421da6f7d72228b8b9b904fc86c248bbc7a
