@@ -1,0 +1,8 @@
+D:\A_level\!FinalProjectTry2\Cinema.DataBase\bin\Debug\Cinema.DataBase.dacpac
+D:\A_level\!FinalProjectTry2\Cinema.DataBase\obj\Debug\Cinema.DataBase.sqlprojAssemblyReference.cache
+D:\A_level\!FinalProjectTry2\Cinema.DataBase\obj\Debug\Model.xml
+D:\A_level\!FinalProjectTry2\Cinema.DataBase\obj\Debug\refactor.xml
+D:\A_level\!FinalProjectTry2\Cinema.DataBase\obj\Debug\postdeploy.sql
+D:\A_level\!FinalProjectTry2\Cinema.DataBase\obj\Debug\predeploy.sql
+D:\A_level\!FinalProjectTry2\Cinema.DataBase\obj\Debug\Cinema.DataBase.dll
+D:\A_level\!FinalProjectTry2\Cinema.DataBase\obj\Debug\Cinema.DataBase.pdb
